@@ -1,0 +1,6 @@
+@cucumber_HostAddress = http://localhost:5215
+
+GET {{cucumber_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
