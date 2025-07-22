@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cucumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02cde19ce61bc164aedc970ee5ff7d31fb2cb083")]
 [assembly: System.Reflection.AssemblyProductAttribute("cucumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cucumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
